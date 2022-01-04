@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T11:26:07.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RV5abl2WNjnQCUd89FyE" version="16.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-04T11:38:11.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="L9YDMBX8kPYl7u2VKkaN" version="16.1.2" type="github" pages="5">
   <diagram id="KUnR1pUKcfkr-RDepORW" name="1. connexion">
     <mxGraphModel dx="1188" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,18 +178,6 @@
             <mxPoint x="465" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zfv8SsIStOB4ZA1KAw7b-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RaduN4FEJv7Jgq1yJ2gZ-1" source="vP3g1e_jsOb5a7pWJ1PA-0" target="rUhejU6MZNTzj8en0kv2-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="180" as="sourcePoint" />
-            <mxPoint x="465" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Zfv8SsIStOB4ZA1KAw7b-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RaduN4FEJv7Jgq1yJ2gZ-1" source="vP3g1e_jsOb5a7pWJ1PA-0" target="rUhejU6MZNTzj8en0kv2-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="180" as="sourcePoint" />
-            <mxPoint x="465" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vP3g1e_jsOb5a7pWJ1PA-0" value="Élève / Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" vertex="1" parent="RaduN4FEJv7Jgq1yJ2gZ-1">
           <mxGeometry x="110" y="260" width="70" height="140" as="geometry" />
         </mxCell>
@@ -197,30 +185,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5MfhZOpvltxTM3ARevW0" name="4. calendrier">
-    <mxGraphModel dx="1666" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4CYTl0fOpBRvBrNWKuWK-0" />
         <mxCell id="4CYTl0fOpBRvBrNWKuWK-1" parent="4CYTl0fOpBRvBrNWKuWK-0" />
         <mxCell id="OjBl-M0junSSJN_UIuKY-0" value="fonctionnalité&lt;br style=&quot;font-size: 17px&quot;&gt;Calendrier" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Open Sans;fontStyle=0;labelBorderColor=#67AB9F;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=17;align=center;" parent="4CYTl0fOpBRvBrNWKuWK-1" vertex="1">
           <mxGeometry x="320" y="40" width="360" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="OjBl-M0junSSJN_UIuKY-1" value="Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="4CYTl0fOpBRvBrNWKuWK-1" vertex="1">
-          <mxGeometry x="120" y="350" width="70" height="140" as="geometry" />
+        <mxCell id="OjBl-M0junSSJN_UIuKY-3" value="Afficher évènements et RDV" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#fff2cc;strokeColor=#d6b656;" parent="4CYTl0fOpBRvBrNWKuWK-1" vertex="1">
+          <mxGeometry x="455" y="186" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OjBl-M0junSSJN_UIuKY-2" value="Élève" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="4CYTl0fOpBRvBrNWKuWK-1" vertex="1">
-          <mxGeometry x="120" y="120" width="70" height="140" as="geometry" />
+        <mxCell id="wuJRlMCa8a_SjmCl2X6g-0" value="Élève / Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" vertex="1" parent="4CYTl0fOpBRvBrNWKuWK-1">
+          <mxGeometry x="160" y="170" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OjBl-M0junSSJN_UIuKY-3" value="Afficher évènements et RDV" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="4CYTl0fOpBRvBrNWKuWK-1" vertex="1">
-          <mxGeometry x="457.5" y="186" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OjBl-M0junSSJN_UIuKY-7" value="Créer évènements et RDV" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="4CYTl0fOpBRvBrNWKuWK-1" vertex="1">
-          <mxGeometry x="452.5" y="334" width="90" height="60" as="geometry" />
+        <mxCell id="wuJRlMCa8a_SjmCl2X6g-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4CYTl0fOpBRvBrNWKuWK-1" source="wuJRlMCa8a_SjmCl2X6g-0" target="OjBl-M0junSSJN_UIuKY-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="WcSE28HzE118ru-9Gia1" name="5. gestionnaire de tâches">
-    <mxGraphModel dx="1666" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CBrr2eyFbl-5ck984wMz-0" />
         <mxCell id="CBrr2eyFbl-5ck984wMz-1" parent="CBrr2eyFbl-5ck984wMz-0" />
@@ -228,16 +216,46 @@
           <mxGeometry x="320" y="40" width="360" height="500" as="geometry" />
         </mxCell>
         <mxCell id="f-vBy_yZlUni0X8QA-J0-1" value="Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="CBrr2eyFbl-5ck984wMz-1" vertex="1">
-          <mxGeometry x="120" y="350" width="70" height="140" as="geometry" />
+          <mxGeometry x="120" y="400" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="f-vBy_yZlUni0X8QA-J0-2" value="Élève" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="CBrr2eyFbl-5ck984wMz-1" vertex="1">
           <mxGeometry x="120" y="120" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="f-vBy_yZlUni0X8QA-J0-3" value="Afficher tâches" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="CBrr2eyFbl-5ck984wMz-1" vertex="1">
-          <mxGeometry x="457.5" y="186" width="90" height="60" as="geometry" />
+        <mxCell id="f-vBy_yZlUni0X8QA-J0-3" value="Liste des tâches" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#d5e8d4;strokeColor=#82b366;" parent="CBrr2eyFbl-5ck984wMz-1" vertex="1">
+          <mxGeometry x="455" y="130" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-vBy_yZlUni0X8QA-J0-4" value="Créer une tâche" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" parent="CBrr2eyFbl-5ck984wMz-1" vertex="1">
-          <mxGeometry x="452.5" y="334" width="90" height="60" as="geometry" />
+        <mxCell id="f-vBy_yZlUni0X8QA-J0-4" value="Créer une tâche" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CBrr2eyFbl-5ck984wMz-1" vertex="1">
+          <mxGeometry x="500" y="280" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1czhY-13eml8FKOWIFm-0" value="Spécifier&lt;br&gt;élève" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Open Sans;verticalAlign=middle;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CBrr2eyFbl-5ck984wMz-1">
+          <mxGeometry x="390" y="410" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1czhY-13eml8FKOWIFm-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CBrr2eyFbl-5ck984wMz-1" source="f-vBy_yZlUni0X8QA-J0-1" target="j1czhY-13eml8FKOWIFm-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="430" as="sourcePoint" />
+            <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1czhY-13eml8FKOWIFm-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CBrr2eyFbl-5ck984wMz-1" source="j1czhY-13eml8FKOWIFm-0" target="f-vBy_yZlUni0X8QA-J0-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="430" as="sourcePoint" />
+            <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1czhY-13eml8FKOWIFm-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CBrr2eyFbl-5ck984wMz-1" source="f-vBy_yZlUni0X8QA-J0-2" target="f-vBy_yZlUni0X8QA-J0-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="430" as="sourcePoint" />
+            <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaPO_sKABf-MqBaBvuNq-0" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CBrr2eyFbl-5ck984wMz-1" source="f-vBy_yZlUni0X8QA-J0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="456.66666666666674" as="sourcePoint" />
+            <mxPoint x="500" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaPO_sKABf-MqBaBvuNq-1" value="Comment formaliser le côté optionnel de &quot;spécifier élève&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=14;" vertex="1" parent="CBrr2eyFbl-5ck984wMz-1">
+          <mxGeometry x="430" y="480" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
