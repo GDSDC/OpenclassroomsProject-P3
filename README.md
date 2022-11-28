@@ -11,8 +11,6 @@
 - [Technologies](#techs)
 - [Requirements](#reqs)
 - [Architecture](#architecture)
-- [Configuration locale](#localconfig)
-- [Présentation](#presentation)
 
 <a id="obj"></a>
 ## Objectif
@@ -49,4 +47,7 @@ Project
 │   ├── P3 - diagrammes de cas d’usage.drawio
 │   ├── P3_02_user_stories.docx
 │   ├── P3_02_user_stories_improvements.docx
+│   ├── P3_02_user_stories_improvements.docx
+│
+├── documents
 ```
