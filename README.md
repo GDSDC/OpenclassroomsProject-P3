@@ -16,7 +16,7 @@
 ## Objectif
 
 Learn@Home est une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. Leur objectif est de permettre à tout élève, où qu’il soit, d’avoir accès à un soutien scolaire à distance.
-Dans le cadre du développement de leur site web permettant aux élèves et à aux bénévoles de communiquer plus facilement, l'objectif de ce projet est de cadrer et coordonner tous les développements avec l’équipe en produisant les documents suivants :
+Dans le cadre du développement de leur site web permettant aux élèves et aux bénévoles de communiquer plus facilement, l'objectif de ce projet est de cadrer et coordonner tous les développements avec l’équipe en produisant les documents suivants :
 - Un diagramme de cas d’usage montrant les cas d’usages pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord) - le diagramme doit utiliser la nomenclature UML.
 - Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités
 - Les maquettes fonctionnelles (wireframes) du site, avec au moins une maquette par page
